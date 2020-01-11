@@ -45,7 +45,6 @@ Os exames constam dos editais do concurso, estão listados abaixo
 
 Você pode fazer os exames onde quiser, em qualquer lugar do brasil. Todos os exames constam do rol básico da ANS, o que significa que os planos de saúde são obrigados a custear. Marque uma consulta com especialista e solicite uma requisição dos exames. 
 
-Para exames particulares, não é necessária solicitação
 
 ### Informações que devem constar dos exames: seu RG, data do exame e indentificação do profissional que realizou
 a) hemograma com contagem de plaquetas; 
