@@ -19,15 +19,20 @@ Resumidamente, os aprovados devem enviar um email até 17/01/2020 indicando se t
 
 A designação é voluntária, por tempo determinado, e não tem efeito algum sobre a nomeação, ou tempo de estágio probatório
 
+### Carga Horária
+Aparentemente, a carga horária para os designados será de 18h em sala para os cargos de 40h, e 12h, para os de 20h, sem obrigação de pesquisa ou extensão. A resulução 234 dispõe sobre a carga horária dos efetivos e designados (http://www.uemg.br/resolucoes-coepe/1114-resolucao-coepe-uemg-n-234-de-23-de-novembro-de-2018-dispoe-sobre-o-calculo-de-encargos-didaticos-e-sua-atribuicao-aos-ocupantes-do-cargo-de-professor-de-educacao-superior-pes-da-uemg-bem-como-aos-professores-designados-da-instituicao). As aulas são de 50 minutos
+
+A UEMG tem aula nos três turnos, e nos sábados, a depender dos cursos
+
 ### Remuneração designados
 
 Para os cargos nível IV (mestre), as remunerações são R$ 2318,01 para cargos de 20h e R$ 4636,02 para cargos de 40h
 
 Para os cargos nível VI (doutor), as remunerações são R$ 3402,02 para cargos de 20h e R$ 6804,05 para cargos de 40h
 
-Cargos de 40h fazem juz á ajuda de custo de aproximadamente R$ 1500,00
+Cargos de 40h fazem juz á ajuda de custo de aproximadamente R$ 1400,00
 
-O valor acima é o pagamento bruto, o valor líquido tem abatimentos de cerca de 27% de taxas e impostos
+O valor acima é o pagamento bruto, o valor líquido tem abatimentos de cerca de 27% de taxas e impostos, então para um cargo VI (doutor) de 40h, o valor liquido seria de em torno de R$ 6400,00
 
 Há informações, não oficiais, de que a remuneração será de acordo com a titulação do candidato, não do cargo
 
@@ -54,3 +59,11 @@ d) videolaringoscopia ou videolaringoestroboscopia, com laudo descritivo, conten
 Para a videolaringoscopia, é importante checar com a clinica antes se ela fornece a filmagem, em dvd ou usb, e é necessário que seu rosto apareça na filmagem, junto com a data. Se a clinica não tiver como colocar a data na filmagem, sugiro segurar o celular junto ao rosto, mostrando a data do exame na tela
 
 Assim que tivermos novas informações, atualizaremos esta página
+
+## Dedicação exclusiva e acúmulo de cargos e outros empregos
+Os cargos dos editais não são para dedicação exclusiva, o que significa que é permitido exercer outras funções remuneradas, inclusive aulas em instituições particulares ou públicas, desde que os horários não choquem e a carga horária da UEMG seja cumprida. Não é necessária autorização da UEMG para exercer outros cargos
+
+Para a nomeação, não há previsão de nenhum cargo receber dedicação exclusiva
+
+## Calendário acadêmico 2020
+http://www.uemg.br/component/content/article/180-graduacao/proen/calendario/375-calendario-academico?Itemid=437
