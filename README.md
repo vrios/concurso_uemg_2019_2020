@@ -1,4 +1,5 @@
-# concurso_uemg_2019_2020
+# Concurso UEMG 2019 / 2020
+
 Informações sobre o concurso de 2019/2020 da UEMG
 
 Este repositório reune as informações mais recentes que temos sobre as contratações e designações dos editais 2019 da UEMG
@@ -7,7 +8,7 @@ Qualquer informação por canais oficiais da UEMG tem precedência, e não nos r
 
 Não há informações oficiais sobre quando ocorrerão as nomeações. 
 
-## grupos de Whatsapp
+## Grupos de Whatsapp
 Existem vários grupos de Whatsapp, um geral e alguns para as cidades dos concursos. Mande um email para vrios81@gmail.com seus contatos, cargo e cidade pedindo para ser adicionado
 
 ## Designações
@@ -52,4 +53,4 @@ d) videolaringoscopia ou videolaringoestroboscopia, com laudo descritivo, conten
 
 Para a videolaringoscopia, é importante checar com a clinica antes se ela fornece a filmagem, em dvd ou usb, e é necessário que seu rosto apareça na filmagem, junto com a data. Se a clinica não tiver como colocar a data na filmagem, sugiro segurar o celular junto ao rosto, mostrando a data do exame na tela
 
-
+Assim que tivermos novas informações, atualizaremos esta página
