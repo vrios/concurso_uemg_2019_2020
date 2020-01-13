@@ -12,7 +12,7 @@ Não há informações oficiais sobre quando ocorrerão as nomeações.
 Existem vários grupos de Whatsapp, um geral e alguns para as cidades dos concursos. Mande um email para vrios81@gmail.com seus contatos, cargo e cidade pedindo para ser adicionado
 
 ## Designações
-**Atualização**: a chamada saiu do ar, estamos aguardando novas informações
+
 A reitoria liberou uma chamada pública para que os aprovados nos editais manifestem interesse nas vagas. Veja as instruções em 
 http://www.uemg.br/noticias-1/3679-designacao-docente-em-2020-chamada-para-manifestacao-de-interesse
 
