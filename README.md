@@ -26,6 +26,7 @@ Aparentemente, a carga horária para os designados será de 18h em sala para os 
 A UEMG tem aula nos três turnos, e nos sábados, a depender dos cursos
 
 ### Remuneração designados
+Segundo informações, a remuneração dos designados será de acordo com a titulação do candidato
 
 Para os cargos nível IV (mestre), as remunerações são R$ 2318,01 para cargos de 20h e R$ 4636,02 para cargos de 40h
 
