@@ -36,7 +36,6 @@ Cargos de 40h fazem juz á ajuda de custo de aproximadamente R$ 1400,00
 
 O valor acima é o pagamento bruto, o valor líquido tem abatimentos de cerca de 27% de taxas e impostos, então para um cargo VI (doutor) de 40h, o valor liquido seria de em torno de R$ 6400,00
 
-Há informações, não oficiais, de que a remuneração será de acordo com a titulação do candidato, não do cargo
 
 ## Documentos para admissão
 Aconselhamos a já preparar os documentos mesmo que não venha a aceitar a designação, para caso as nomeações saiam ainda este semestre
