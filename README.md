@@ -18,7 +18,7 @@ http://www.uemg.br/noticias-1/3679-designacao-docente-em-2020-chamada-para-manif
 
 Resumidamente, os aprovados devem enviar um email até 17/01/2020 indicando se tem interesse de assumir a vaga como designado, para o endereço indicado na chamada
 
-A designação é voluntária, por tempo determinado, e não tem efeito algum sobre a nomeação, ou tempo de estágio probatório
+A designação é voluntária, por tempo determinado, e não tem efeito algum sobre a nomeação, ou tempo de estágio probatório. Aparentemente a designação será por um ano
 
 ### Carga Horária
 Aparentemente, a carga horária para os designados será de 18h em sala para os cargos de 40h, e 12h, para os de 20h, sem obrigação de pesquisa ou extensão. A resulução 234 dispõe sobre a carga horária dos efetivos e designados (http://www.uemg.br/resolucoes-coepe/1114-resolucao-coepe-uemg-n-234-de-23-de-novembro-de-2018-dispoe-sobre-o-calculo-de-encargos-didaticos-e-sua-atribuicao-aos-ocupantes-do-cargo-de-professor-de-educacao-superior-pes-da-uemg-bem-como-aos-professores-designados-da-instituicao). As aulas são de 50 minutos
