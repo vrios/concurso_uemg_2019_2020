@@ -58,7 +58,7 @@ d) videolaringoscopia ou videolaringoestroboscopia, com laudo descritivo, conten
 
 Para a videolaringoscopia, é importante checar com a clinica antes se ela fornece a filmagem, em dvd ou usb, e é necessário que seu rosto apareça na filmagem, junto com a data. Se a clinica não tiver como colocar a data na filmagem, sugiro segurar o celular junto ao rosto, mostrando a data do exame na tela
 
-Assim que tivermos novas informações, atualizaremos esta página
+Validade dos exames: 30 dias para sangue e urina, 90 dias para videolaringoscopia
 
 ## Dedicação exclusiva e acúmulo de cargos e outros empregos
 Os cargos dos editais não são para dedicação exclusiva, o que significa que é permitido exercer outras funções remuneradas, inclusive aulas em instituições particulares ou públicas, desde que os horários não choquem e a carga horária da UEMG seja cumprida. Não é necessária autorização da UEMG para exercer outros cargos
