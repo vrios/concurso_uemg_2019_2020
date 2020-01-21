@@ -67,3 +67,6 @@ Para a nomeação, não há previsão de nenhum cargo receber dedicação exclus
 
 ## Calendário acadêmico 2020
 http://www.uemg.br/component/content/article/180-graduacao/proen/calendario/375-calendario-academico?Itemid=437
+
+# Telefones para agendamento de perícia médica
+http://www.planejamento.mg.gov.br/sites/default/files/documentos/seplag/institucional/enderecos_dos_nucleos_regionais_e_unidade_central_-_atualizado_em_17-10-2019_publicacao_no_site.pdf
