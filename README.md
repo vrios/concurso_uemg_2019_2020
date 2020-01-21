@@ -20,6 +20,11 @@ Resumidamente, os aprovados devem enviar um email até 17/01/2020 indicando se t
 
 A designação é voluntária, por tempo determinado, e não tem efeito algum sobre a nomeação, ou tempo de estágio probatório. Aparentemente a designação será por um ano
 
+Após receber o email respondendo à manifestação de interesse, o professor tem 5 dias úteis para fazer a perícia médica e entregar os ducumentos em sua unidade. 
+
+# Telefones para agendamento de perícia médica
+http://www.planejamento.mg.gov.br/sites/default/files/documentos/seplag/institucional/enderecos_dos_nucleos_regionais_e_unidade_central_-_atualizado_em_17-10-2019_publicacao_no_site.pdf
+
 ### Carga Horária
 Aparentemente, a carga horária para os designados será de 18h em sala para os cargos de 40h, e 12h, para os de 20h, sem obrigação de pesquisa ou extensão. A resulução 234 dispõe sobre a carga horária dos efetivos e designados (http://www.uemg.br/resolucoes-coepe/1114-resolucao-coepe-uemg-n-234-de-23-de-novembro-de-2018-dispoe-sobre-o-calculo-de-encargos-didaticos-e-sua-atribuicao-aos-ocupantes-do-cargo-de-professor-de-educacao-superior-pes-da-uemg-bem-como-aos-professores-designados-da-instituicao). As aulas são de 50 minutos
 
@@ -68,5 +73,4 @@ Para a nomeação, não há previsão de nenhum cargo receber dedicação exclus
 ## Calendário acadêmico 2020
 http://www.uemg.br/component/content/article/180-graduacao/proen/calendario/375-calendario-academico?Itemid=437
 
-# Telefones para agendamento de perícia médica
-http://www.planejamento.mg.gov.br/sites/default/files/documentos/seplag/institucional/enderecos_dos_nucleos_regionais_e_unidade_central_-_atualizado_em_17-10-2019_publicacao_no_site.pdf
+
